@@ -474,10 +474,10 @@ section.Skills .Row_2 .Box
     background-color: #efefef;
 }
 
-#react:hover
+#adobe:hover
 {
     border-color: #ff9cd1;
-    color: #33d6f3;
+    color: #960f72;
     background-color: rgb(17, 21, 22);
     transition: 0.7s; 
 }
@@ -498,11 +498,11 @@ section.Skills .Row_2 .Box
     transition: 0.7s;
 }
 
-#java:hover
+#unity:hover
 {
     border-color: #ff9cd1;
     color: #efefef;
-    background-color: rgb(212, 191, 0);
+    background-color: rgb(73, 73, 72);
     transition: 0.7s;
 }
 
