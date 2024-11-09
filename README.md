@@ -21,6 +21,8 @@ For the visual design of my website, I focused on achieving a professional yet i
 
 LINK: https://www.figma.com/design/Ncz8zQw3keKuIME8CNZvZU/CV-mockup?node-id=0-1&t=6nA79ZJbIXOm0H1L-1
 
+# PUBLIC LINK -- GITHUB PAGES -------------------
+https://gazpatxo.github.io/CV-IRINA/
 
 
 
